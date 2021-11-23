@@ -1,0 +1,15 @@
+baseURL = 'https://DeltaReadLog.github.io/'
+languageCode = 'en-us'
+title = 'Delta Read Log'
+theme = 'hugo-theme-techdoc'
+enableEmoji = true
+[params]
+ title = "DeltaReadLog"
+ author = "Databeans"
+ version = "0.1.0"
+
+ [menu]
+     [[menu.main]]
+         name = "Home"
+         url = "/"
+         weight = 1
